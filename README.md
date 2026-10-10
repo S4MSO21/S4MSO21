@@ -1,16 +1,16 @@
-## Hi there 👋
+# Samuel Lima
 
-<!--
-**S4MSO21/S4MSO21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em soluções confiáveis para operação, automação de dados e gestão de frotas.
 
-Here are some ideas to get you started:
+## Áreas de atuação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Portais e painéis operacionais
+- Automação e qualidade de dados
+- Integrações seguras com bancos e serviços
+- Ferramentas locais para times de operação
+
+## Princípios de trabalho
+
+Segurança por padrão, dados rastreáveis e interfaces claras para quem executa a operação todos os dias.
+
+> Projetos operacionais permanecem privados por segurança e governança de dados.
